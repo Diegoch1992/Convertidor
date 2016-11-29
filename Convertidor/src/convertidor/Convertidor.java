@@ -30,6 +30,7 @@ public class Convertidor {
         ob1.convertir();
         
         System.out.println("CAMBIO REALIZADO DESDE NETBEANS");
+        System.out.println("OTRO CAMBIO DESDE NB");
     }
     
 }
